@@ -1,7 +1,7 @@
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
-📦 Project Requirements
 
+📦 Project Requirements
 🛠️ Building the Data Warehouse (Data Engineering)
 Objective:
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
